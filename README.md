@@ -1,7 +1,7 @@
-# sentiment-analyzer
+# ngl-spammer
 This is a NGL Spmmer automatically send specific messages to a given ngl.link/username.
 
-The requirements mentioned in the file`requirements.txt` must be present in the system.
+The requirements mentioned in the file `requirements.txt` must be present in the system.
 
 To install the requirements-
 `pip install -r requirements.txt`
