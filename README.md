@@ -1,5 +1,5 @@
 # ngl-spammer
-This is a NGL Spmmer automatically send specific messages to a given ngl.link/username.
+This is a NGL Spmmer to automatically send specific messages to a given ngl.link/username.
 
 The requirements mentioned in the file `requirements.txt` must be present in the system.
 
